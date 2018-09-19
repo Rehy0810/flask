@@ -14,5 +14,5 @@ webtest==2.0.15
 cssmin==0.2.0
 gunicorn==0.17.2
 #psycopg2==2.5.2
-pyscss==1.2.0
+pyscss
 sqlalchemy==0.9.3
